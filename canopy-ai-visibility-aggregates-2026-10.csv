@@ -1,0 +1,494 @@
+"metro","state","trade","platform","answers","answers_naming_company","company_mentions","distinct_companies","avg_companies_per_answer","top_company_share_pct","answers_booking_offered","answers_connector_mentioned","answers_neither_booking_nor_connector"
+"Atlanta","GA","Appliance Repair","ChatGPT",12,12,46,15,3.83,26.1,2,0,10
+"Atlanta","GA","Appliance Repair","Gemini",12,12,44,26,3.67,13.6,1,0,11
+"Atlanta","GA","Electrical","ChatGPT",12,11,39,20,3.25,15.4,2,4,6
+"Atlanta","GA","Electrical","Gemini",12,12,53,33,4.42,9.4,1,0,11
+"Atlanta","GA","Garage Doors","ChatGPT",12,12,34,8,2.83,32.4,2,2,8
+"Atlanta","GA","Garage Doors","Gemini",12,12,50,21,4.17,18,0,0,12
+"Atlanta","GA","Generators","ChatGPT",12,12,43,12,3.58,25.6,2,5,5
+"Atlanta","GA","Generators","Gemini",12,12,57,30,4.75,10.5,0,0,12
+"Atlanta","GA","HVAC","ChatGPT",12,12,34,21,2.83,17.6,1,2,10
+"Atlanta","GA","HVAC","Gemini",12,11,52,25,4.33,11.5,0,0,12
+"Atlanta","GA","Landscaping","ChatGPT",12,12,52,23,4.33,15.4,2,7,4
+"Atlanta","GA","Landscaping","Gemini",12,11,62,44,5.17,11.3,1,3,8
+"Atlanta","GA","Pest Control","ChatGPT",12,12,58,22,4.83,10.3,2,4,6
+"Atlanta","GA","Pest Control","Gemini",12,11,64,27,5.33,15.6,1,0,11
+"Atlanta","GA","Plumbing","ChatGPT",12,12,52,20,4.33,19.2,2,6,4
+"Atlanta","GA","Plumbing","Gemini",12,12,50,33,4.17,10,0,0,12
+"Atlanta","GA","Pool Service","ChatGPT",12,11,38,17,3.17,15.8,2,1,9
+"Atlanta","GA","Pool Service","Gemini",12,12,50,19,4.17,18,0,0,12
+"Atlanta","GA","Roofing","ChatGPT",12,12,51,25,4.25,19.6,2,4,6
+"Atlanta","GA","Roofing","Gemini",12,12,60,30,5,13.3,1,0,11
+"Atlanta","GA","Septic","ChatGPT",12,12,49,17,4.08,20.4,2,0,10
+"Atlanta","GA","Septic","Gemini",12,9,38,20,3.17,13.2,1,0,11
+"Atlanta","GA","Tree Service","ChatGPT",12,12,44,20,3.67,20.5,2,4,6
+"Atlanta","GA","Tree Service","Gemini",12,11,49,25,4.08,14.3,0,0,12
+"Augusta","GA","Appliance Repair","ChatGPT",12,12,33,11,2.75,18.2,2,8,2
+"Augusta","GA","Appliance Repair","Gemini",12,12,54,26,4.5,16.7,4,0,8
+"Augusta","GA","Electrical","ChatGPT",12,12,43,12,3.58,25.6,1,0,11
+"Augusta","GA","Electrical","Gemini",12,12,55,19,4.58,18.2,2,0,10
+"Augusta","GA","Garage Doors","ChatGPT",12,12,40,10,3.33,25,0,0,12
+"Augusta","GA","Garage Doors","Gemini",12,12,45,16,3.75,17.8,0,0,12
+"Augusta","GA","Generators","ChatGPT",12,12,39,8,3.25,30.8,2,0,10
+"Augusta","GA","Generators","Gemini",12,12,51,24,4.25,21.6,2,0,10
+"Augusta","GA","HVAC","ChatGPT",12,12,47,24,3.92,14.9,0,0,12
+"Augusta","GA","HVAC","Gemini",12,12,52,23,4.33,21.2,0,1,11
+"Augusta","GA","Landscaping","ChatGPT",12,12,46,33,3.83,8.7,3,0,9
+"Augusta","GA","Landscaping","Gemini",12,12,53,45,4.42,9.4,0,1,11
+"Augusta","GA","Pest Control","ChatGPT",12,12,42,12,3.5,21.4,0,0,12
+"Augusta","GA","Pest Control","Gemini",12,12,55,31,4.58,9.1,0,0,12
+"Augusta","GA","Plumbing","ChatGPT",12,12,43,12,3.58,18.6,0,1,11
+"Augusta","GA","Plumbing","Gemini",12,12,54,28,4.5,13,0,2,10
+"Augusta","GA","Pool Service","ChatGPT",12,12,42,11,3.5,28.6,2,0,10
+"Augusta","GA","Pool Service","Gemini",12,12,48,23,4,18.8,0,0,12
+"Augusta","GA","Roofing","ChatGPT",12,12,45,12,3.75,20,0,0,12
+"Augusta","GA","Roofing","Gemini",12,12,50,27,4.17,12,0,1,11
+"Augusta","GA","Septic","ChatGPT",12,12,37,10,3.08,32.4,2,0,10
+"Augusta","GA","Septic","Gemini",12,12,44,18,3.67,20.5,0,0,12
+"Augusta","GA","Tree Service","ChatGPT",12,12,43,18,3.58,11.6,2,0,10
+"Augusta","GA","Tree Service","Gemini",12,12,50,27,4.17,10,0,0,12
+"Charleston","SC","Appliance Repair","ChatGPT",12,12,46,10,3.83,23.9,2,3,7
+"Charleston","SC","Appliance Repair","Gemini",12,12,49,20,4.08,18.4,0,1,11
+"Charleston","SC","Electrical","ChatGPT",12,12,40,15,3.33,22.5,2,5,6
+"Charleston","SC","Electrical","Gemini",12,12,50,25,4.17,16,0,0,12
+"Charleston","SC","Garage Doors","ChatGPT",12,12,36,8,3,25,2,10,2
+"Charleston","SC","Garage Doors","Gemini",12,12,47,13,3.92,23.4,0,0,12
+"Charleston","SC","Generators","ChatGPT",12,12,47,12,3.92,21.3,2,7,5
+"Charleston","SC","Generators","Gemini",12,12,50,23,4.17,14,0,1,11
+"Charleston","SC","HVAC","ChatGPT",12,5,10,5,0.83,50,2,2,8
+"Charleston","SC","HVAC","Gemini",12,12,51,27,4.25,9.8,0,0,12
+"Charleston","SC","Landscaping","ChatGPT",12,12,51,23,4.25,13.7,2,11,1
+"Charleston","SC","Landscaping","Gemini",12,12,54,32,4.5,9.3,0,2,10
+"Charleston","SC","Pest Control","ChatGPT",12,12,41,17,3.42,17.1,2,8,3
+"Charleston","SC","Pest Control","Gemini",12,12,52,31,4.33,9.6,1,0,11
+"Charleston","SC","Plumbing","ChatGPT",12,12,46,17,3.83,17.4,2,0,10
+"Charleston","SC","Plumbing","Gemini",12,12,54,32,4.5,11.1,0,0,12
+"Charleston","SC","Pool Service","ChatGPT",12,12,44,12,3.67,20.5,2,11,1
+"Charleston","SC","Pool Service","Gemini",12,12,46,19,3.83,19.6,0,1,11
+"Charleston","SC","Roofing","ChatGPT",12,12,42,21,3.5,19,2,0,10
+"Charleston","SC","Roofing","Gemini",12,12,53,25,4.42,11.3,1,0,11
+"Charleston","SC","Septic","ChatGPT",12,12,48,9,4,25,1,4,8
+"Charleston","SC","Septic","Gemini",12,12,48,25,4,12.5,0,0,12
+"Charleston","SC","Tree Service","ChatGPT",12,12,46,16,3.83,15.2,2,8,3
+"Charleston","SC","Tree Service","Gemini",12,12,52,34,4.33,11.5,0,0,12
+"Charlotte","NC","Appliance Repair","ChatGPT",12,12,44,11,3.67,20.5,2,6,4
+"Charlotte","NC","Appliance Repair","Gemini",12,12,48,27,4,12.5,0,0,12
+"Charlotte","NC","Electrical","ChatGPT",12,12,45,19,3.75,20,2,1,10
+"Charlotte","NC","Electrical","Gemini",12,12,53,25,4.42,11.3,0,1,11
+"Charlotte","NC","Garage Doors","ChatGPT",12,12,34,8,2.83,26.5,2,2,10
+"Charlotte","NC","Garage Doors","Gemini",12,12,51,29,4.25,9.8,1,0,11
+"Charlotte","NC","Generators","ChatGPT",12,12,38,10,3.17,28.9,2,8,3
+"Charlotte","NC","Generators","Gemini",12,12,50,36,4.17,6,0,0,12
+"Charlotte","NC","HVAC","ChatGPT",12,10,28,14,2.33,17.9,2,1,9
+"Charlotte","NC","HVAC","Gemini",12,11,45,22,3.75,17.8,1,0,11
+"Charlotte","NC","Landscaping","ChatGPT",12,12,46,21,3.83,15.2,2,5,6
+"Charlotte","NC","Landscaping","Gemini",12,12,60,39,5,10,0,0,12
+"Charlotte","NC","Pest Control","ChatGPT",12,10,21,11,1.75,33.3,3,1,9
+"Charlotte","NC","Pest Control","Gemini",12,12,58,22,4.83,15.5,0,0,12
+"Charlotte","NC","Plumbing","ChatGPT",12,10,34,17,2.83,26.5,1,0,11
+"Charlotte","NC","Plumbing","Gemini",12,11,53,32,4.42,11.3,0,0,12
+"Charlotte","NC","Pool Service","ChatGPT",12,10,29,14,2.42,20.7,2,2,8
+"Charlotte","NC","Pool Service","Gemini",15,15,66,32,4.4,10.6,1,0,14
+"Charlotte","NC","Roofing","ChatGPT",12,11,29,6,2.42,31,2,0,10
+"Charlotte","NC","Roofing","Gemini",12,11,48,30,4,14.6,0,0,12
+"Charlotte","NC","Septic","ChatGPT",12,12,54,16,4.5,20.4,2,9,2
+"Charlotte","NC","Septic","Gemini",12,12,48,17,4,18.8,0,0,12
+"Charlotte","NC","Tree Service","ChatGPT",12,11,11,4,0.92,72.7,2,1,10
+"Charlotte","NC","Tree Service","Gemini",13,13,55,25,4.23,14.5,0,0,13
+"Charlottesville","VA","Appliance Repair","ChatGPT",12,12,34,10,2.83,35.3,1,0,11
+"Charlottesville","VA","Appliance Repair","Gemini",12,12,50,26,4.17,24,0,0,12
+"Charlottesville","VA","Electrical","ChatGPT",12,12,44,19,3.67,13.6,2,1,10
+"Charlottesville","VA","Electrical","Gemini",12,11,56,19,4.67,14.3,1,0,11
+"Charlottesville","VA","Garage Doors","ChatGPT",12,12,36,8,3,33.3,3,1,9
+"Charlottesville","VA","Garage Doors","Gemini",12,9,36,15,3,22.2,0,0,12
+"Charlottesville","VA","Generators","ChatGPT",12,12,43,8,3.58,27.9,2,2,10
+"Charlottesville","VA","Generators","Gemini",12,12,50,13,4.17,22,1,0,11
+"Charlottesville","VA","HVAC","ChatGPT",12,12,55,13,4.58,16.4,2,1,10
+"Charlottesville","VA","HVAC","ChatGPT",12,12,46,16,3.83,15.2,2,2,10
+"Charlottesville","VA","HVAC","Gemini",12,12,60,20,5,18.3,0,0,12
+"Charlottesville","VA","Landscaping","ChatGPT",12,12,55,16,4.58,20,2,6,5
+"Charlottesville","VA","Landscaping","Gemini",12,12,62,39,5.17,8.1,0,2,10
+"Charlottesville","VA","Pest Control","ChatGPT",12,12,42,12,3.5,26.2,2,1,10
+"Charlottesville","VA","Pest Control","Gemini",12,12,50,24,4.17,22,1,0,11
+"Charlottesville","VA","Plumbing","ChatGPT",12,9,31,12,2.58,19.4,2,1,10
+"Charlottesville","VA","Plumbing","Gemini",12,12,51,32,4.25,9.8,0,0,12
+"Charlottesville","VA","Pool Service","ChatGPT",12,12,38,9,3.17,26.3,2,2,10
+"Charlottesville","VA","Pool Service","Gemini",12,12,58,18,4.83,19,0,0,12
+"Charlottesville","VA","Roofing","ChatGPT",12,11,35,10,2.92,17.1,2,1,10
+"Charlottesville","VA","Roofing","Gemini",12,11,52,21,4.33,13.5,0,0,12
+"Charlottesville","VA","Septic","ChatGPT",12,12,51,18,4.25,15.7,2,2,9
+"Charlottesville","VA","Septic","Gemini",12,12,47,28,3.92,12.8,0,0,12
+"Charlottesville","VA","Tree Service","ChatGPT",12,12,41,12,3.42,26.8,2,1,10
+"Charlottesville","VA","Tree Service","Gemini",12,9,36,17,3,19.4,0,0,12
+"Chattanooga","TN","Appliance Repair","ChatGPT",12,12,46,11,3.83,23.9,8,0,4
+"Chattanooga","TN","Appliance Repair","Gemini",12,12,48,27,4,16.7,1,0,11
+"Chattanooga","TN","Electrical","ChatGPT",12,12,45,13,3.75,22.2,2,2,10
+"Chattanooga","TN","Electrical","Gemini",12,12,46,20,3.83,17.4,0,0,12
+"Chattanooga","TN","Garage Doors","ChatGPT",12,12,46,12,3.83,21.7,4,1,8
+"Chattanooga","TN","Garage Doors","Gemini",12,12,47,18,3.92,21.3,0,0,12
+"Chattanooga","TN","Generators","ChatGPT",12,12,44,12,3.67,18.2,2,0,10
+"Chattanooga","TN","Generators","Gemini",12,12,50,25,4.17,12,0,0,12
+"Chattanooga","TN","HVAC","ChatGPT",12,12,45,19,3.75,17.8,8,1,4
+"Chattanooga","TN","HVAC","Gemini",12,12,55,29,4.58,16.4,2,0,10
+"Chattanooga","TN","Landscaping","ChatGPT",12,12,48,23,4,14.6,2,0,10
+"Chattanooga","TN","Landscaping","Gemini",12,12,55,34,4.58,9.1,0,0,12
+"Chattanooga","TN","Pest Control","ChatGPT",12,12,47,17,3.92,14.9,10,2,2
+"Chattanooga","TN","Pest Control","Gemini",12,12,58,24,4.83,10.3,2,0,10
+"Chattanooga","TN","Plumbing","ChatGPT",12,12,52,21,4.33,13.5,10,0,2
+"Chattanooga","TN","Plumbing","Gemini",12,12,52,28,4.33,11.5,1,0,11
+"Chattanooga","TN","Pool Service","ChatGPT",12,12,44,15,3.67,20.5,3,0,9
+"Chattanooga","TN","Pool Service","Gemini",12,12,47,26,3.92,17,2,0,10
+"Chattanooga","TN","Roofing","ChatGPT",12,12,45,15,3.75,15.6,8,0,4
+"Chattanooga","TN","Roofing","Gemini",12,12,49,30,4.08,14.3,3,0,9
+"Chattanooga","TN","Septic","ChatGPT",12,12,45,13,3.75,20,2,0,10
+"Chattanooga","TN","Septic","Gemini",12,12,52,24,4.33,15.4,0,0,12
+"Chattanooga","TN","Tree Service","ChatGPT",12,12,48,16,4,20.8,11,2,1
+"Chattanooga","TN","Tree Service","Gemini",12,11,49,18,4.08,14.3,4,0,8
+"Columbia","SC","Appliance Repair","ChatGPT",12,12,41,15,3.42,17.1,4,0,8
+"Columbia","SC","Appliance Repair","Gemini",12,12,50,20,4.17,22,0,0,12
+"Columbia","SC","Electrical","ChatGPT",12,12,41,11,3.42,22,3,0,9
+"Columbia","SC","Electrical","Gemini",12,12,52,18,4.33,21.2,1,0,11
+"Columbia","SC","Garage Doors","ChatGPT",12,12,39,12,3.25,30.8,2,1,9
+"Columbia","SC","Garage Doors","Gemini",12,12,45,16,3.75,17.8,1,1,10
+"Columbia","SC","Generators","ChatGPT",12,12,43,12,3.58,25.6,2,1,9
+"Columbia","SC","Generators","Gemini",12,12,49,24,4.08,20.4,0,0,12
+"Columbia","SC","HVAC","ChatGPT",12,12,42,15,3.5,26.2,3,0,9
+"Columbia","SC","HVAC","Gemini",12,12,55,33,4.58,12.7,0,0,12
+"Columbia","SC","Landscaping","ChatGPT",12,12,49,25,4.08,14.3,3,0,9
+"Columbia","SC","Landscaping","Gemini",12,12,49,29,4.08,10.2,0,0,12
+"Columbia","SC","Pest Control","ChatGPT",12,12,47,19,3.92,14.9,2,0,10
+"Columbia","SC","Pest Control","Gemini",12,12,54,35,4.5,9.3,0,1,11
+"Columbia","SC","Plumbing","ChatGPT",12,12,45,16,3.75,20,3,0,9
+"Columbia","SC","Plumbing","Gemini",12,12,52,31,4.33,9.6,0,0,12
+"Columbia","SC","Pool Service","ChatGPT",12,12,49,14,4.08,18.4,4,0,8
+"Columbia","SC","Pool Service","Gemini",12,12,44,22,3.67,22.7,0,0,12
+"Columbia","SC","Roofing","ChatGPT",12,12,44,15,3.67,18.2,3,0,9
+"Columbia","SC","Roofing","Gemini",12,12,53,23,4.42,15.1,0,0,12
+"Columbia","SC","Septic","ChatGPT",12,12,39,10,3.25,28.2,2,0,10
+"Columbia","SC","Septic","Gemini",12,12,46,30,3.83,8.7,1,0,11
+"Columbia","SC","Tree Service","ChatGPT",12,12,48,15,4,18.8,2,0,10
+"Columbia","SC","Tree Service","Gemini",12,12,51,28,4.25,7.8,0,0,12
+"Greensboro","NC","Appliance Repair","ChatGPT",12,12,45,13,3.75,22.2,2,1,10
+"Greensboro","NC","Appliance Repair","Gemini",12,12,51,22,4.25,19.6,0,0,12
+"Greensboro","NC","Electrical","ChatGPT",12,12,45,16,3.75,13.3,2,2,10
+"Greensboro","NC","Electrical","Gemini",12,12,53,23,4.42,13.2,1,0,11
+"Greensboro","NC","Garage Doors","ChatGPT",12,12,46,9,3.83,21.7,2,2,10
+"Greensboro","NC","Garage Doors","Gemini",12,12,46,20,3.83,21.7,1,0,11
+"Greensboro","NC","Generators","ChatGPT",12,12,40,13,3.33,17.5,0,2,10
+"Greensboro","NC","Generators","Gemini",12,12,48,24,4,10.4,0,0,12
+"Greensboro","NC","HVAC","ChatGPT",12,12,41,17,3.42,12.2,2,0,10
+"Greensboro","NC","HVAC","Gemini",12,12,53,31,4.42,11.3,1,0,11
+"Greensboro","NC","Landscaping","ChatGPT",12,12,51,17,4.25,21.6,0,3,9
+"Greensboro","NC","Landscaping","Gemini",12,12,55,32,4.58,7.3,0,1,11
+"Greensboro","NC","Pest Control","ChatGPT",12,12,44,15,3.67,18.2,2,2,10
+"Greensboro","NC","Pest Control","Gemini",12,12,51,29,4.25,11.8,1,0,11
+"Greensboro","NC","Plumbing","ChatGPT",12,12,46,17,3.83,19.6,1,0,11
+"Greensboro","NC","Plumbing","Gemini",12,12,51,30,4.25,9.8,0,0,12
+"Greensboro","NC","Pool Service","ChatGPT",12,12,46,10,3.83,23.9,2,2,10
+"Greensboro","NC","Pool Service","Gemini",12,12,45,16,3.75,15.6,0,0,12
+"Greensboro","NC","Roofing","ChatGPT",12,12,47,15,3.92,17,1,0,11
+"Greensboro","NC","Roofing","Gemini",12,12,53,25,4.42,15.1,0,0,12
+"Greensboro","NC","Septic","ChatGPT",12,12,47,13,3.92,21.3,2,2,9
+"Greensboro","NC","Septic","Gemini",12,12,47,20,3.92,12.8,0,0,12
+"Greensboro","NC","Tree Service","ChatGPT",12,12,43,16,3.58,23.3,1,2,10
+"Greensboro","NC","Tree Service","Gemini",12,12,48,32,4,8.3,1,0,11
+"Greenville","SC","Appliance Repair","ChatGPT",12,12,46,17,3.83,19.6,1,0,11
+"Greenville","SC","Appliance Repair","Gemini",12,12,50,22,4.17,12,0,0,12
+"Greenville","SC","Electrical","ChatGPT",12,12,44,21,3.67,15.9,3,0,9
+"Greenville","SC","Electrical","Gemini",12,12,48,30,4,10.4,3,0,9
+"Greenville","SC","Garage Doors","ChatGPT",12,12,43,14,3.58,20.9,2,0,10
+"Greenville","SC","Garage Doors","Gemini",12,12,47,26,3.92,14.9,1,0,11
+"Greenville","SC","Generators","ChatGPT",12,12,46,9,3.83,26.1,3,0,9
+"Greenville","SC","Generators","Gemini",12,12,48,27,4,14.6,2,2,10
+"Greenville","SC","HVAC","ChatGPT",12,12,47,17,3.92,17,2,0,10
+"Greenville","SC","HVAC","Gemini",12,12,60,32,5,16.7,0,0,12
+"Greenville","SC","Landscaping","ChatGPT",12,12,50,27,4.17,18,2,3,7
+"Greenville","SC","Landscaping","Gemini",12,12,56,39,4.67,8.9,2,1,10
+"Greenville","SC","Pest Control","ChatGPT",12,12,47,16,3.92,23.4,2,0,10
+"Greenville","SC","Pest Control","Gemini",12,12,55,33,4.58,9.1,1,0,11
+"Greenville","SC","Plumbing","ChatGPT",12,12,45,19,3.75,17.8,3,2,7
+"Greenville","SC","Plumbing","Gemini",12,12,52,34,4.33,9.6,0,0,12
+"Greenville","SC","Pool Service","ChatGPT",12,12,49,18,4.08,18.4,3,5,4
+"Greenville","SC","Pool Service","Gemini",12,12,47,20,3.92,12.8,0,0,12
+"Greenville","SC","Roofing","ChatGPT",12,12,41,23,3.42,9.8,2,0,10
+"Greenville","SC","Roofing","Gemini",12,12,51,31,4.25,11.8,1,0,11
+"Greenville","SC","Septic","ChatGPT",12,12,47,17,3.92,17,1,0,11
+"Greenville","SC","Septic","Gemini",12,12,53,27,4.42,9.4,0,0,12
+"Greenville","SC","Tree Service","ChatGPT",12,12,48,14,4,18.8,0,0,12
+"Greenville","SC","Tree Service","Gemini",12,12,51,20,4.25,17.6,0,0,12
+"Knoxville","TN","Appliance Repair","ChatGPT",12,12,42,10,3.5,23.8,2,0,10
+"Knoxville","TN","Appliance Repair","Gemini",12,12,51,24,4.25,17.6,5,6,4
+"Knoxville","TN","Electrical","ChatGPT",12,12,44,20,3.67,20.5,3,0,9
+"Knoxville","TN","Electrical","Gemini",12,12,48,32,4,16.7,1,0,11
+"Knoxville","TN","Garage Doors","ChatGPT",12,12,38,15,3.17,26.3,9,0,3
+"Knoxville","TN","Garage Doors","Gemini",12,12,45,20,3.75,15.6,2,0,10
+"Knoxville","TN","Generators","ChatGPT",12,12,41,17,3.42,24.4,10,0,2
+"Knoxville","TN","Generators","Gemini",12,12,54,30,4.5,11.1,2,0,10
+"Knoxville","TN","HVAC","ChatGPT",12,12,48,19,4,20.8,2,0,10
+"Knoxville","TN","HVAC","Gemini",12,12,54,35,4.5,9.3,1,0,11
+"Knoxville","TN","Landscaping","ChatGPT",12,12,49,21,4.08,14.3,2,0,10
+"Knoxville","TN","Landscaping","Gemini",12,12,51,28,4.25,11.8,0,0,12
+"Knoxville","TN","Pest Control","ChatGPT",12,12,47,17,3.92,17,8,0,4
+"Knoxville","TN","Pest Control","Gemini",12,12,54,31,4.5,11.1,1,0,11
+"Knoxville","TN","Plumbing","ChatGPT",12,12,50,15,4.17,22,3,8,1
+"Knoxville","TN","Plumbing","Gemini",12,12,50,25,4.17,12,2,0,10
+"Knoxville","TN","Pool Service","ChatGPT",12,12,45,16,3.75,24.4,10,0,2
+"Knoxville","TN","Pool Service","Gemini",12,12,47,29,3.92,10.6,2,0,10
+"Knoxville","TN","Roofing","ChatGPT",12,12,44,21,3.67,13.6,2,0,10
+"Knoxville","TN","Roofing","Gemini",12,12,50,21,4.17,18,0,0,12
+"Knoxville","TN","Septic","ChatGPT",12,12,44,8,3.67,27.3,2,0,10
+"Knoxville","TN","Septic","Gemini",12,12,47,19,3.92,21.3,2,0,10
+"Knoxville","TN","Tree Service","ChatGPT",12,12,44,15,3.67,25,2,0,10
+"Knoxville","TN","Tree Service","Gemini",12,12,50,23,4.17,14,2,0,10
+"Memphis","TN","Appliance Repair","ChatGPT",12,12,45,8,3.75,24.4,1,0,11
+"Memphis","TN","Appliance Repair","Gemini",12,12,43,17,3.58,20.9,0,0,12
+"Memphis","TN","Electrical","ChatGPT",12,12,46,16,3.83,17.4,1,0,11
+"Memphis","TN","Electrical","Gemini",12,12,56,33,4.67,10.7,0,0,12
+"Memphis","TN","Garage Doors","ChatGPT",12,12,41,15,3.42,19.5,3,0,9
+"Memphis","TN","Garage Doors","Gemini",12,12,46,23,3.83,13,0,0,12
+"Memphis","TN","Generators","ChatGPT",12,12,43,12,3.58,20.9,1,0,11
+"Memphis","TN","Generators","Gemini",12,12,50,36,4.17,8,0,0,12
+"Memphis","TN","HVAC","ChatGPT",12,12,47,15,3.92,23.4,3,0,9
+"Memphis","TN","HVAC","Gemini",12,12,48,21,4,14.6,0,0,12
+"Memphis","TN","Landscaping","ChatGPT",12,12,46,16,3.83,23.9,2,0,10
+"Memphis","TN","Landscaping","Gemini",12,12,56,39,4.67,5.4,1,0,11
+"Memphis","TN","Pest Control","ChatGPT",12,12,46,16,3.83,23.9,3,0,9
+"Memphis","TN","Pest Control","Gemini",12,12,56,31,4.67,10.7,0,0,12
+"Memphis","TN","Plumbing","ChatGPT",12,12,41,15,3.42,17.1,2,0,10
+"Memphis","TN","Plumbing","Gemini",12,12,51,32,4.25,11.8,1,0,11
+"Memphis","TN","Pool Service","ChatGPT",12,12,46,18,3.83,21.7,2,0,10
+"Memphis","TN","Pool Service","Gemini",12,12,48,23,4,14.6,0,0,12
+"Memphis","TN","Roofing","ChatGPT",12,12,43,19,3.58,20.9,3,0,9
+"Memphis","TN","Roofing","Gemini",12,12,53,24,4.42,17,0,0,12
+"Memphis","TN","Septic","ChatGPT",12,12,38,17,3.17,21.1,1,0,11
+"Memphis","TN","Septic","Gemini",12,12,45,27,3.75,8.9,0,0,12
+"Memphis","TN","Tree Service","ChatGPT",12,12,47,15,3.92,23.4,1,0,11
+"Memphis","TN","Tree Service","Gemini",12,12,47,24,3.92,12.8,0,0,12
+"Myrtle Beach","SC","Appliance Repair","ChatGPT",12,12,46,13,3.83,26.1,2,2,8
+"Myrtle Beach","SC","Appliance Repair","Gemini",12,12,49,23,4.08,18.4,1,3,8
+"Myrtle Beach","SC","Electrical","ChatGPT",12,12,44,24,3.67,13.6,2,5,5
+"Myrtle Beach","SC","Electrical","Gemini",12,12,50,18,4.17,22,0,4,8
+"Myrtle Beach","SC","Garage Doors","ChatGPT",12,12,45,12,3.75,24.4,2,6,4
+"Myrtle Beach","SC","Garage Doors","Gemini",12,12,50,18,4.17,14,0,5,7
+"Myrtle Beach","SC","Generators","ChatGPT",12,12,44,10,3.67,22.7,2,0,10
+"Myrtle Beach","SC","Generators","Gemini",12,11,44,14,3.67,18.2,0,0,12
+"Myrtle Beach","SC","HVAC","ChatGPT",12,12,46,16,3.83,17.4,2,0,10
+"Myrtle Beach","SC","HVAC","Gemini",12,12,43,19,3.58,23.3,0,0,12
+"Myrtle Beach","SC","Landscaping","ChatGPT",12,12,49,22,4.08,18.4,2,6,6
+"Myrtle Beach","SC","Landscaping","Gemini",12,12,53,29,4.42,11.3,1,8,3
+"Myrtle Beach","SC","Pest Control","ChatGPT",12,12,47,20,3.92,14.9,1,0,11
+"Myrtle Beach","SC","Pest Control","Gemini",12,12,53,23,4.42,13.2,0,0,12
+"Myrtle Beach","SC","Plumbing","ChatGPT",12,12,44,20,3.67,18.2,2,0,10
+"Myrtle Beach","SC","Plumbing","Gemini",12,12,50,30,4.17,12,0,2,10
+"Myrtle Beach","SC","Pool Service","ChatGPT",12,12,44,18,3.67,25,3,3,6
+"Myrtle Beach","SC","Pool Service","Gemini",12,11,46,29,3.83,10.9,1,3,8
+"Myrtle Beach","SC","Roofing","ChatGPT",12,12,39,16,3.25,20.5,2,2,8
+"Myrtle Beach","SC","Roofing","Gemini",12,12,49,18,4.08,22.4,0,0,12
+"Myrtle Beach","SC","Septic","ChatGPT",12,12,44,15,3.67,15.9,2,7,3
+"Myrtle Beach","SC","Septic","Gemini",12,12,48,25,4,20.8,1,3,8
+"Myrtle Beach","SC","Tree Service","ChatGPT",12,12,42,12,3.5,21.4,2,3,7
+"Myrtle Beach","SC","Tree Service","Gemini",12,12,50,20,4.17,18,0,1,11
+"Nashville","TN","Appliance Repair","ChatGPT",12,12,40,15,3.33,22.5,3,0,9
+"Nashville","TN","Appliance Repair","Gemini",12,12,46,19,3.83,15.2,1,0,11
+"Nashville","TN","Electrical","ChatGPT",12,12,43,19,3.58,20.9,3,0,9
+"Nashville","TN","Electrical","Gemini",12,12,49,22,4.08,12.2,0,0,12
+"Nashville","TN","Garage Doors","ChatGPT",12,12,44,16,3.67,22.7,3,1,8
+"Nashville","TN","Garage Doors","Gemini",12,12,51,26,4.25,13.7,0,0,12
+"Nashville","TN","Generators","ChatGPT",12,12,44,16,3.67,22.7,3,0,9
+"Nashville","TN","Generators","Gemini",12,12,51,31,4.25,11.8,0,0,12
+"Nashville","TN","HVAC","ChatGPT",12,12,46,17,3.83,21.7,3,0,9
+"Nashville","TN","HVAC","Gemini",12,12,52,28,4.33,11.5,0,0,12
+"Nashville","TN","Landscaping","ChatGPT",12,12,47,24,3.92,12.8,4,1,8
+"Nashville","TN","Landscaping","Gemini",12,12,56,35,4.67,16.1,0,2,10
+"Nashville","TN","Pest Control","ChatGPT",12,12,45,16,3.75,15.6,3,0,9
+"Nashville","TN","Pest Control","Gemini",12,12,48,28,4,12.5,1,1,10
+"Nashville","TN","Plumbing","ChatGPT",12,12,44,19,3.67,15.9,3,1,8
+"Nashville","TN","Plumbing","Gemini",12,12,50,30,4.17,12,0,0,12
+"Nashville","TN","Pool Service","ChatGPT",12,12,49,18,4.08,18.4,3,0,9
+"Nashville","TN","Pool Service","Gemini",12,12,51,24,4.25,13.7,1,1,10
+"Nashville","TN","Roofing","ChatGPT",12,12,45,22,3.75,17.8,3,0,9
+"Nashville","TN","Roofing","Gemini",12,12,50,27,4.17,10,0,0,12
+"Nashville","TN","Septic","ChatGPT",12,12,41,15,3.42,29.3,3,0,9
+"Nashville","TN","Septic","Gemini",12,12,42,16,3.5,19,0,1,11
+"Nashville","TN","Tree Service","ChatGPT",12,12,45,18,3.75,22.2,3,0,9
+"Nashville","TN","Tree Service","Gemini",12,12,50,26,4.17,12,0,0,12
+"Northern Virginia","VA","Appliance Repair","ChatGPT",12,12,48,19,4,18.8,10,0,2
+"Northern Virginia","VA","Appliance Repair","Gemini",12,12,46,29,3.83,10.9,1,0,11
+"Northern Virginia","VA","Electrical","ChatGPT",12,12,48,22,4,22.9,1,0,11
+"Northern Virginia","VA","Electrical","Gemini",12,12,53,29,4.42,15.1,0,0,12
+"Northern Virginia","VA","Garage Doors","ChatGPT",12,12,47,22,3.92,21.3,2,0,10
+"Northern Virginia","VA","Garage Doors","Gemini",12,12,48,37,4,10.4,0,0,12
+"Northern Virginia","VA","Generators","ChatGPT",12,12,44,12,3.67,20.5,8,0,4
+"Northern Virginia","VA","Generators","Gemini",12,12,55,29,4.58,14.5,2,0,10
+"Northern Virginia","VA","HVAC","ChatGPT",12,12,50,23,4.17,16,2,0,10
+"Northern Virginia","VA","HVAC","Gemini",12,12,60,41,5,6.7,0,0,12
+"Northern Virginia","VA","Landscaping","ChatGPT",12,12,51,28,4.25,15.7,11,0,1
+"Northern Virginia","VA","Landscaping","Gemini",12,12,65,45,5.42,7.7,1,0,11
+"Northern Virginia","VA","Pest Control","ChatGPT",12,12,45,15,3.75,24.4,2,0,10
+"Northern Virginia","VA","Pest Control","Gemini",12,12,53,21,4.42,17,4,0,8
+"Northern Virginia","VA","Plumbing","ChatGPT",12,12,51,30,4.25,13.7,10,0,2
+"Northern Virginia","VA","Plumbing","Gemini",12,12,58,36,4.83,6.9,0,0,12
+"Northern Virginia","VA","Pool Service","ChatGPT",12,12,48,17,4,14.6,11,0,1
+"Northern Virginia","VA","Pool Service","Gemini",12,12,48,19,4,14.6,3,0,9
+"Northern Virginia","VA","Roofing","ChatGPT",12,12,46,23,3.83,10.9,1,0,11
+"Northern Virginia","VA","Roofing","Gemini",12,12,57,27,4.75,10.5,1,0,11
+"Northern Virginia","VA","Septic","ChatGPT",12,12,43,23,3.58,14,10,0,2
+"Northern Virginia","VA","Septic","Gemini",12,12,48,20,4,18.8,1,0,11
+"Northern Virginia","VA","Tree Service","ChatGPT",12,12,47,45,3.92,4.3,2,0,10
+"Northern Virginia","VA","Tree Service","Gemini",12,12,51,48,4.25,5.9,1,0,11
+"Raleigh-Durham","NC","Appliance Repair","ChatGPT",12,12,36,6,3,30.6,2,0,10
+"Raleigh-Durham","NC","Appliance Repair","Gemini",12,12,48,27,4,14.6,0,0,12
+"Raleigh-Durham","NC","Appliance Repair","Google Search",12,9,27,14,2.25,22.2,3,12,0
+"Raleigh-Durham","NC","Electrical","ChatGPT",12,12,54,31,4.5,14.8,2,9,3
+"Raleigh-Durham","NC","Electrical","Gemini",12,12,49,31,4.08,8.2,0,0,12
+"Raleigh-Durham","NC","Electrical","Google Search",12,8,24,17,2,16.7,10,12,0
+"Raleigh-Durham","NC","Garage Doors","ChatGPT",12,12,39,12,3.25,23.1,2,0,10
+"Raleigh-Durham","NC","Garage Doors","Gemini",12,12,46,29,3.83,21.7,0,0,12
+"Raleigh-Durham","NC","Garage Doors","Google Search",12,8,24,17,2,12.5,12,12,0
+"Raleigh-Durham","NC","Generators","ChatGPT",12,12,38,16,3.17,21.1,2,2,10
+"Raleigh-Durham","NC","Generators","Gemini",12,12,52,28,4.33,13.5,1,0,11
+"Raleigh-Durham","NC","Generators","Google Search",12,7,21,6,1.75,33.3,9,9,1
+"Raleigh-Durham","NC","HVAC","ChatGPT",12,12,54,39,4.5,7.4,2,0,10
+"Raleigh-Durham","NC","HVAC","Gemini",12,12,55,29,4.58,10.9,0,0,12
+"Raleigh-Durham","NC","HVAC","Google Search",12,4,12,10,1,16.7,9,12,0
+"Raleigh-Durham","NC","Landscaping","ChatGPT",12,12,55,29,4.58,18.2,2,5,5
+"Raleigh-Durham","NC","Landscaping","Gemini",12,12,54,40,4.5,9.3,2,5,6
+"Raleigh-Durham","NC","Landscaping","Google Search",12,8,24,15,2,12.5,0,2,10
+"Raleigh-Durham","NC","Pest Control","ChatGPT",12,12,46,19,3.83,19.6,2,5,5
+"Raleigh-Durham","NC","Pest Control","Gemini",12,12,56,27,4.67,12.5,1,0,11
+"Raleigh-Durham","NC","Pest Control","Google Search",12,9,27,13,2.25,22.2,11,11,0
+"Raleigh-Durham","NC","Plumbing","ChatGPT",12,12,49,29,4.08,10.2,2,0,10
+"Raleigh-Durham","NC","Plumbing","Gemini",12,12,52,25,4.33,13.5,0,0,12
+"Raleigh-Durham","NC","Plumbing","Google Search",12,8,24,13,2,25,12,10,0
+"Raleigh-Durham","NC","Pool Service","ChatGPT",12,12,45,17,3.75,17.8,2,7,3
+"Raleigh-Durham","NC","Pool Service","Gemini",12,12,54,27,4.5,14.8,1,3,8
+"Raleigh-Durham","NC","Pool Service","Google Search",12,8,22,9,1.83,36.4,8,0,4
+"Raleigh-Durham","NC","Roofing","ChatGPT",12,12,52,24,4.33,19.2,2,11,1
+"Raleigh-Durham","NC","Roofing","Gemini",12,12,56,24,4.67,14.3,0,0,12
+"Raleigh-Durham","NC","Roofing","Google Search",12,7,21,11,1.75,14.3,11,7,0
+"Raleigh-Durham","NC","Septic","ChatGPT",12,12,38,15,3.17,26.3,2,1,9
+"Raleigh-Durham","NC","Septic","Gemini",12,12,51,22,4.25,13.7,0,0,12
+"Raleigh-Durham","NC","Septic","Google Search",12,10,30,9,2.5,23.3,11,12,0
+"Raleigh-Durham","NC","Tree Service","ChatGPT",12,12,40,14,3.33,25,1,1,10
+"Raleigh-Durham","NC","Tree Service","Gemini",12,12,48,24,4,14.6,0,0,12
+"Raleigh-Durham","NC","Tree Service","Google Search",12,8,24,12,2,20.8,9,12,0
+"Richmond","VA","Appliance Repair","ChatGPT",12,12,56,14,4.67,17.9,2,8,3
+"Richmond","VA","Appliance Repair","Gemini",12,11,48,18,4,18.8,1,0,11
+"Richmond","VA","Electrical","ChatGPT",12,12,61,17,5.08,18,1,3,9
+"Richmond","VA","Electrical","Gemini",12,12,53,32,4.42,9.4,0,1,11
+"Richmond","VA","Garage Doors","ChatGPT",12,12,53,8,4.42,20.8,2,4,7
+"Richmond","VA","Garage Doors","Gemini",12,11,44,13,3.67,22.7,0,0,12
+"Richmond","VA","Generators","ChatGPT",12,12,43,12,3.58,18.6,2,3,7
+"Richmond","VA","Generators","Gemini",24,24,108,24,4.5,16.7,0,0,24
+"Richmond","VA","HVAC","ChatGPT",12,12,44,19,3.67,18.2,2,9,3
+"Richmond","VA","HVAC","Gemini",12,12,60,31,5,11.7,0,0,12
+"Richmond","VA","Landscaping","ChatGPT",12,12,46,24,3.83,15.2,2,3,7
+"Richmond","VA","Landscaping","Gemini",12,11,48,32,4,10.4,1,2,9
+"Richmond","VA","Pest Control","ChatGPT",12,12,56,16,4.67,17.9,1,11,1
+"Richmond","VA","Pest Control","Gemini",12,11,50,17,4.17,12,0,0,12
+"Richmond","VA","Plumbing","ChatGPT",12,12,42,15,3.5,23.8,2,10,2
+"Richmond","VA","Plumbing","Gemini",12,12,55,32,4.58,10.9,0,0,12
+"Richmond","VA","Pool Service","ChatGPT",12,12,41,9,3.42,22,1,0,11
+"Richmond","VA","Pool Service","Gemini",12,11,41,18,3.42,24.4,0,0,12
+"Richmond","VA","Roofing","ChatGPT",12,12,42,16,3.5,11.9,2,12,0
+"Richmond","VA","Roofing","Gemini",12,11,54,27,4.5,13,0,0,12
+"Richmond","VA","Septic","ChatGPT",12,11,52,15,4.33,17.3,2,10,1
+"Richmond","VA","Septic","Gemini",12,12,51,30,4.25,15.7,0,0,12
+"Richmond","VA","Tree Service","ChatGPT",12,12,67,20,5.58,14.9,1,12,0
+"Richmond","VA","Tree Service","Gemini",12,11,49,32,4.08,14.3,0,0,12
+"Roanoke","VA","Appliance Repair","ChatGPT",12,12,45,11,3.75,24.4,2,0,10
+"Roanoke","VA","Appliance Repair","Gemini",12,12,48,25,4,12.5,0,1,11
+"Roanoke","VA","Electrical","ChatGPT",12,12,46,18,3.83,13,3,0,9
+"Roanoke","VA","Electrical","Gemini",12,12,55,33,4.58,10.9,0,3,9
+"Roanoke","VA","Garage Doors","ChatGPT",12,11,35,5,2.92,31.4,3,0,9
+"Roanoke","VA","Garage Doors","Gemini",12,12,48,17,4,16.7,0,0,12
+"Roanoke","VA","Generators","ChatGPT",12,12,42,10,3.5,28.6,1,1,10
+"Roanoke","VA","Generators","Gemini",12,12,55,18,4.58,16.4,2,0,10
+"Roanoke","VA","HVAC","ChatGPT",12,12,41,14,3.42,26.8,3,0,9
+"Roanoke","VA","HVAC","Gemini",12,12,52,27,4.33,11.5,1,0,11
+"Roanoke","VA","Landscaping","ChatGPT",12,12,46,16,3.83,17.4,3,0,9
+"Roanoke","VA","Landscaping","Gemini",12,12,52,30,4.33,15.4,1,1,11
+"Roanoke","VA","Pest Control","ChatGPT",12,12,43,17,3.58,23.3,3,0,9
+"Roanoke","VA","Pest Control","Gemini",12,12,51,23,4.25,17.6,1,0,11
+"Roanoke","VA","Plumbing","ChatGPT",12,12,45,13,3.75,24.4,3,0,9
+"Roanoke","VA","Plumbing","Gemini",12,12,51,34,4.25,11.8,0,0,12
+"Roanoke","VA","Pool Service","ChatGPT",12,12,38,11,3.17,28.9,3,0,9
+"Roanoke","VA","Pool Service","Gemini",12,12,38,14,3.17,23.7,2,0,10
+"Roanoke","VA","Roofing","ChatGPT",12,12,46,17,3.83,19.6,3,0,9
+"Roanoke","VA","Roofing","Gemini",12,12,51,21,4.25,13.7,0,0,12
+"Roanoke","VA","Septic","ChatGPT",12,12,43,13,3.58,20.9,3,0,9
+"Roanoke","VA","Septic","Gemini",12,12,49,25,4.08,18.4,0,0,12
+"Roanoke","VA","Tree Service","ChatGPT",12,12,45,13,3.75,22.2,3,0,9
+"Roanoke","VA","Tree Service","Gemini",12,12,50,25,4.17,14,0,0,12
+"Savannah","GA","Appliance Repair","ChatGPT",12,12,44,11,3.67,27.3,1,2,9
+"Savannah","GA","Appliance Repair","Gemini",12,12,42,22,3.5,19,1,0,11
+"Savannah","GA","Electrical","ChatGPT",12,12,46,11,3.83,23.9,2,1,9
+"Savannah","GA","Electrical","Gemini",12,12,47,28,3.92,10.6,2,0,10
+"Savannah","GA","Garage Doors","ChatGPT",12,12,42,8,3.5,21.4,2,0,10
+"Savannah","GA","Garage Doors","Gemini",12,12,47,20,3.92,21.3,2,0,10
+"Savannah","GA","Generators","ChatGPT",12,12,39,13,3.25,25.6,0,2,10
+"Savannah","GA","Generators","Gemini",12,12,45,17,3.75,24.4,0,0,12
+"Savannah","GA","HVAC","ChatGPT",12,12,45,14,3.75,22.2,1,0,11
+"Savannah","GA","HVAC","Gemini",12,12,58,27,4.83,15.5,1,0,11
+"Savannah","GA","Landscaping","ChatGPT",12,12,51,17,4.25,17.6,0,3,9
+"Savannah","GA","Landscaping","Gemini",12,12,51,25,4.25,17.6,0,1,11
+"Savannah","GA","Pest Control","ChatGPT",12,12,42,11,3.5,28.6,2,0,10
+"Savannah","GA","Pest Control","Gemini",12,12,51,29,4.25,15.7,2,0,10
+"Savannah","GA","Plumbing","ChatGPT",12,12,41,13,3.42,22,1,0,11
+"Savannah","GA","Plumbing","Gemini",12,12,49,22,4.08,18.4,1,1,10
+"Savannah","GA","Pool Service","ChatGPT",12,12,45,11,3.75,20,0,2,10
+"Savannah","GA","Pool Service","Gemini",12,12,46,26,3.83,15.2,0,0,12
+"Savannah","GA","Roofing","ChatGPT",12,12,43,17,3.58,20.9,1,0,11
+"Savannah","GA","Roofing","Gemini",12,12,52,23,4.33,17.3,1,0,11
+"Savannah","GA","Septic","ChatGPT",12,12,43,10,3.58,27.9,1,2,9
+"Savannah","GA","Septic","Gemini",12,12,39,7,3.25,30.8,1,0,11
+"Savannah","GA","Tree Service","ChatGPT",12,12,43,13,3.58,20.9,1,1,10
+"Savannah","GA","Tree Service","Gemini",12,12,56,30,4.67,12.5,1,0,11
+"Virginia Beach","VA","Appliance Repair","ChatGPT",12,12,45,17,3.75,24.4,9,0,3
+"Virginia Beach","VA","Appliance Repair","Gemini",12,12,48,28,4,12.5,3,0,9
+"Virginia Beach","VA","Electrical","ChatGPT",12,12,46,16,3.83,15.2,1,0,11
+"Virginia Beach","VA","Electrical","Gemini",12,12,48,24,4,10.4,2,0,10
+"Virginia Beach","VA","Garage Doors","ChatGPT",12,12,41,8,3.42,29.3,3,5,4
+"Virginia Beach","VA","Garage Doors","Gemini",12,12,49,23,4.08,18.4,0,0,12
+"Virginia Beach","VA","Generators","ChatGPT",12,12,43,13,3.58,25.6,9,0,3
+"Virginia Beach","VA","Generators","Gemini",12,12,50,22,4.17,14,1,0,11
+"Virginia Beach","VA","HVAC","ChatGPT",12,12,44,19,3.67,20.5,8,0,4
+"Virginia Beach","VA","HVAC","Gemini",12,12,60,32,5,13.3,3,0,9
+"Virginia Beach","VA","Landscaping","ChatGPT",12,12,51,23,4.25,15.7,8,0,4
+"Virginia Beach","VA","Landscaping","Gemini",12,12,56,37,4.67,10.7,1,1,11
+"Virginia Beach","VA","Pest Control","ChatGPT",12,12,47,12,3.92,23.4,2,0,10
+"Virginia Beach","VA","Pest Control","Gemini",12,12,53,25,4.42,18.9,2,0,10
+"Virginia Beach","VA","Plumbing","ChatGPT",12,12,40,17,3.33,22.5,8,0,4
+"Virginia Beach","VA","Plumbing","Gemini",12,12,48,32,4,12.5,0,0,12
+"Virginia Beach","VA","Pool Service","ChatGPT",12,12,47,16,3.92,19.1,1,0,11
+"Virginia Beach","VA","Pool Service","Gemini",12,12,47,17,3.92,17,0,0,12
+"Virginia Beach","VA","Roofing","ChatGPT",12,12,47,21,3.92,23.4,3,0,9
+"Virginia Beach","VA","Roofing","Gemini",12,12,52,23,4.33,11.5,4,0,8
+"Virginia Beach","VA","Septic","ChatGPT",12,12,39,11,3.25,25.6,9,0,3
+"Virginia Beach","VA","Septic","Gemini",12,12,44,18,3.67,18.2,2,0,10
+"Virginia Beach","VA","Tree Service","ChatGPT",12,12,43,13,3.58,23.3,9,0,3
+"Virginia Beach","VA","Tree Service","Gemini",12,12,49,27,4.08,12.2,2,0,10
+"Wilmington","NC","Appliance Repair","ChatGPT",12,12,41,10,3.42,26.8,2,3,7
+"Wilmington","NC","Appliance Repair","Gemini",12,12,41,15,3.42,26.8,3,3,6
+"Wilmington","NC","Electrical","ChatGPT",12,12,48,12,4,20.8,1,0,11
+"Wilmington","NC","Electrical","Gemini",12,12,54,29,4.5,16.7,0,0,12
+"Wilmington","NC","Garage Doors","ChatGPT",12,12,44,12,3.67,15.9,2,0,10
+"Wilmington","NC","Garage Doors","Gemini",12,12,44,18,3.67,13.6,0,0,12
+"Wilmington","NC","Generators","ChatGPT",12,12,42,12,3.5,23.8,2,0,10
+"Wilmington","NC","Generators","Gemini",12,12,57,23,4.75,15.8,0,0,12
+"Wilmington","NC","HVAC","ChatGPT",12,12,49,21,4.08,18.4,1,1,10
+"Wilmington","NC","HVAC","Gemini",12,12,63,41,5.25,17.5,0,0,12
+"Wilmington","NC","Landscaping","ChatGPT",12,12,46,14,3.83,19.6,3,2,8
+"Wilmington","NC","Landscaping","Gemini",12,12,50,29,4.17,14,1,1,10
+"Wilmington","NC","Pest Control","ChatGPT",12,12,44,14,3.67,20.5,2,0,10
+"Wilmington","NC","Pest Control","Gemini",12,12,50,20,4.17,16,0,0,12
+"Wilmington","NC","Plumbing","ChatGPT",12,12,44,16,3.67,22.7,0,2,10
+"Wilmington","NC","Plumbing","Gemini",12,12,52,31,4.33,11.5,0,0,12
+"Wilmington","NC","Pool Service","ChatGPT",12,12,45,10,3.75,22.2,2,0,10
+"Wilmington","NC","Pool Service","Gemini",12,12,54,24,4.5,14.8,0,0,12
+"Wilmington","NC","Roofing","ChatGPT",12,12,43,16,3.58,23.3,1,2,10
+"Wilmington","NC","Roofing","Gemini",12,12,52,26,4.33,19.2,0,0,12
+"Wilmington","NC","Septic","ChatGPT",12,12,42,14,3.5,19,10,0,2
+"Wilmington","NC","Septic","Gemini",12,12,44,16,3.67,25,2,0,10
+"Wilmington","NC","Tree Service","ChatGPT",12,12,48,15,4,16.7,2,1,9
+"Wilmington","NC","Tree Service","Gemini",12,12,51,23,4.25,13.7,0,1,11
